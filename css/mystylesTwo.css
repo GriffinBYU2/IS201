@@ -1,0 +1,25 @@
+.post{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+.post-title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: normal;
+}
+
+.post-meta{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.post-p{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.date{
+    font-style: italic;
+}

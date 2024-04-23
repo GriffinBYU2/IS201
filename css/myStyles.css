@@ -1,0 +1,76 @@
+h1{
+    color: gold;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    height: 75px;
+    line-height: 75px;
+}
+
+.common{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.list{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.italics{
+    font-style: italic;
+}
+
+.tableau{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+ }
+
+ 
+#WorldRecord{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 230, 0);
+    background-color: black;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+body{
+    background-color: rgb(225, 220, 220);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    text-align: center;
+    border: 5px solid black;
+    margin: 50px;
+    padding: 0px;
+}
+
+ul{
+    text-align: left;
+
+    display: inline-block;
+}
+
+ol{
+    text-align: left;
+
+    display: inline-block;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    height: 20px;
+    bottom: 0px;
+    position: fixed;
+    left: 5px;
+    right: 5px;
+    padding-top: 10px;
+    font-size: 13px;
+}
